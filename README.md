@@ -95,9 +95,9 @@ Added comments to seperate the different content
  I had too edit the (.) to (#)
 
 combined the three benefits since they had the same commands
-#benefits-lead img,
-#benefits-brand img,
-#benefits-cost img {
+##benefits-lead img,
+##benefits-brand img,
+##benefits-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
