@@ -15,7 +15,7 @@ end of the html webpage
 This was added in order to keep things simple for myself and for others with no coding experience with coding. It shows the start and ending of the structure of the html file. 
 
 Added ALT tags to all images and icons. 
-alt="search-engine-optimization Picture"
+alt=search-engine-optimization Picture"
 alt="online-reputation-management Picture "
 alt="social-media-marketing Picture"
 alt="Lead Generation Picture"
@@ -25,7 +25,7 @@ alt="Cost Management Picture"
 Changed div class="benefits" to  aside class="benefits"
 ^^ 
 Changed 
-div class="benefits-lead" to div id="benefits-lead"
+div class = "benefits-lead" to div id="benefits-lead"
 div class="benefits-brand" to div id="benefits-brand"
 div class="benefits-cost" to div id="benefits-cost"
 The end of the changes to the HTML file.
